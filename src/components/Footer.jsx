@@ -3,7 +3,7 @@ export const Footer = () => (
 
 		<p className="mt-3">
 			Made with <i className="fa fa-heart text-danger" /> by{" "}
-			<a href="https://www.linkedin.com/in/erickdelosreyes/">Erick de los Reyes</a>
+			<a className="text-white" href="https://www.linkedin.com/in/erickdelosreyes/">Erick de los Reyes</a>
 		</p>
 	</footer>
 );

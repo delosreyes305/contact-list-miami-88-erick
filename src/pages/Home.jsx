@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 import useGlobalReducer from "../hooks/useGlobalReducer.jsx";
 import useActions from "../hooks/useActions.jsx";
 import { ContactCard } from "../components/ContactCard.jsx";
